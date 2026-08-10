@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="330" viewBox="0 0 860 330" role="img" aria-label="Rachith Kumar GitHub terminal profile">
+<style>
+.tcur{animation:t-blink 1.1s step-end infinite}.tln{opacity:0;animation:t-in .36s ease-out forwards}@keyframes t-blink{0%,49%{opacity:1}50%,100%{opacity:0}}@keyframes t-in{to{opacity:1}}
+</style>
+<rect x=".5" y=".5" width="859" height="329" rx="11" fill="#0b0e14" stroke="#2a3038"/>
+<path d="M.5 12a11 11 0 0 1 11-11h837a11 11 0 0 1 11 11v22H.5z" fill="#161b22"/>
+<rect x=".5" y="34" width="859" height="1" fill="#2a3038"/>
+<circle cx="22" cy="17.5" r="6" fill="#ff5f56"/><circle cx="42" cy="17.5" r="6" fill="#ffbd2e"/><circle cx="62" cy="17.5" r="6" fill="#27c93f"/>
+<text x="430" y="22" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#8b949e">rachith@github: ~ — -zsh</text>
+
+<g class="tln" style="animation-delay:0ms">
+<text x="28" y="70" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#3fb950">rachith@github</text><text x="163" y="70" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#c9d1d9">:~$ </text><text x="199" y="70" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#c9d1d9">whoami</text>
+</g>
+<g class="tln" style="animation-delay:180ms"><text x="28" y="104" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20" font-weight="800" fill="#fff">Rachith Kumar</text></g>
+<g class="tln" style="animation-delay:320ms"><text x="28" y="132" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#1aff1a">B.Tech CSE • AI &amp; Data Science</text></g>
+
+<g class="tln" style="animation-delay:480ms">
+<text x="28" y="172" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#3fb950">rachith@github</text><text x="163" y="172" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#c9d1d9">:~$ </text><text x="199" y="172" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#c9d1d9">skills</text>
+</g>
+<g class="tln" style="animation-delay:640ms"><text x="28" y="202" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#8b949e">Python • SQL • Pandas • NumPy • Java • Flask • MongoDB</text></g>
+
+<g class="tln" style="animation-delay:820ms">
+<text x="28" y="240" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#3fb950">rachith@github</text><text x="163" y="240" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#c9d1d9">:~$ </text><text x="199" y="240" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#c9d1d9">projects</text>
+</g>
+<g class="tln" style="animation-delay:1000ms"><text x="28" y="268" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#8b949e">Learn Skills • Data Analytics • Developer Learning Tracker</text></g>
+<g class="tln" style="animation-delay:1180ms"><text x="28" y="308" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#3fb950">rachith@github</text><text x="163" y="308" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#c9d1d9">:~$ </text><rect class="tcur" x="199" y="296" width="9" height="16" fill="#1aff1a"/></g>
+</svg>
